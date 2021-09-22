@@ -10,6 +10,11 @@ Modern, fast (high-performance), web framework for building APIs with Python 3.6
 
 ### FastAPI - Install
     pip install fastapi uvicorn[standard]
+    
+for code examples look for python file main.py in fastapi folder
+
+### REST API best practices
+##### https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
 
 ### Python type hints
 ##### https://docs.python.org/3/library/typing.html
@@ -22,6 +27,7 @@ Python type hints provides runtime support for type hints,The most fundamental s
 
 Python is a dynamically typed language, hence variable's type is checked at run-time. Python's type hinting
 system nudges Python towards static typing, but as the name states, these are merely type hints and not type declarations.
+
 
 
 
