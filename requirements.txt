@@ -1,0 +1,5 @@
+fastapi==0.68.1
+pkg_resources==0.0.0
+pydantic==1.8.2
+starlette==0.14.2
+typing-extensions==3.10.0.2
